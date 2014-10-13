@@ -10,7 +10,8 @@
                 "imagePath": null,
                 "sourceComments": "map",
                 "outputStyle": "nested"
-            }
+            },
+            "linting.collapsed": false
         }
     }
 }
