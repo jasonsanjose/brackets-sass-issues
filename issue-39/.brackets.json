@@ -4,7 +4,7 @@
             "sass.enabled": true,
             "sass.options": {
                 "includePaths": [
-                    "bower_components/foundation/scss/"
+                    "../bower_components/foundation/scss/"
                 ],
                 "outputDir": "../css/",
                 "imagePath": null,
