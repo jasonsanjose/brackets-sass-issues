@@ -1,0 +1,6 @@
+p {
+    // expected errors
+    // libsass: unbound variable $doesNotExist
+    // ruby: Undefined variable: "$doesNotExist".
+    height: $doesNotExist;
+}

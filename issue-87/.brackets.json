@@ -1,0 +1,16 @@
+{
+    "sass.enabled": false,
+    "sass.compiler": "ruby",
+    "path": {
+        "library/scss/main.scss": {
+            "sass.enabled": true,
+            "sass.options": {
+                "outputDir": "../css/",
+                "includePaths": ["utils","base","components","extras","layouts","pages","vendor"],
+                "imagePath": null,
+                "sourceComments": true,
+                "outputStyle": "nested"
+            }
+        }
+    }
+}

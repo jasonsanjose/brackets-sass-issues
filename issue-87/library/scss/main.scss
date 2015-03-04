@@ -1,0 +1,6 @@
+@import "utils/variables";
+@import "base/core"; // expected errors, see base/_core.scss
+
+body {
+    width: $red;
+}
