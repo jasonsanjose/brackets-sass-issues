@@ -1,0 +1,10 @@
+{
+    "path": {
+        "sass/main.scss": {
+            "sass.options": {
+                "outputDir": "../css",
+                "sourceMap": "maps/main.map"
+            }
+        }
+    }
+}
